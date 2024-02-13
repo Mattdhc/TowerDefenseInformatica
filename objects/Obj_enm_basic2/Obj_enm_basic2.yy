@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_enm_basic2",
+  "name": "obj_enm_basic2",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_enm_basic2",
-    "path": "sprites/Spr_enm_basic2/Spr_enm_basic2.yy",
+    "name": "spr_enm_basic2",
+    "path": "sprites/spr_enm_basic2/spr_enm_basic2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_enm_sneaky",
+  "name": "obj_enm_sneaky",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

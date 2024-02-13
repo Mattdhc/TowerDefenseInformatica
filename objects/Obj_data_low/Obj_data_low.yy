@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_data_low",
+  "name": "obj_data_low",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

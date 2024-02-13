@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_anti_max",
+  "name": "obj_anti_max",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

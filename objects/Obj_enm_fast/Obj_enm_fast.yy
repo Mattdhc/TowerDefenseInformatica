@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_enm_fast",
+  "name": "obj_enm_fast",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

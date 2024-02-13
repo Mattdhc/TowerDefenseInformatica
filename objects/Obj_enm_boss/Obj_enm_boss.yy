@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_enm_boss",
+  "name": "obj_enm_boss",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

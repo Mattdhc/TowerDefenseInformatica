@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_enm_basic_3",
+  "name": "obj_enm_basic_3",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
