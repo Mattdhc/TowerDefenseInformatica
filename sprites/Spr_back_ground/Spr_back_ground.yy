@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "informaticatowerdefense",
-    "path": "informaticatowerdefense.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
