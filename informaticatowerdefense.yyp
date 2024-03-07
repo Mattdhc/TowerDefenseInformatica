@@ -61,7 +61,7 @@
     {"id":{"name":"obj_data_med","path":"objects/obj_data_med/obj_data_med.yy",},},
     {"id":{"name":"obj_prot_low","path":"objects/obj_prot_low/obj_prot_low.yy",},},
     {"id":{"name":"spr_enm_boss","path":"sprites/spr_enm_boss/spr_enm_boss.yy",},},
-    {"id":{"name":"obj_enm_basic2","path":"objects/obj_enm_basic2/obj_enm_basic2.yy",},},
+    {"id":{"name":"obj_enm_basic_2","path":"objects/obj_enm_basic_2/obj_enm_basic_2.yy",},},
     {"id":{"name":"spr_enm_fast","path":"sprites/spr_enm_fast/spr_enm_fast.yy",},},
     {"id":{"name":"obj_prot_max","path":"objects/obj_prot_max/obj_prot_max.yy",},},
     {"id":{"name":"spr_anti_med","path":"sprites/spr_anti_med/spr_anti_med.yy",},},
