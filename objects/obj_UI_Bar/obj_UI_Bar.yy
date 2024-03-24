@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_prot_low",
+  "%Name":"obj_UI_Bar",
   "eventList":[],
   "managed":true,
-  "name":"obj_prot_low",
+  "name":"obj_UI_Bar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"UI",
+    "path":"folders/Objects/UI.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_prot_low",
-    "path":"sprites/spr_prot_low/spr_prot_low.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
