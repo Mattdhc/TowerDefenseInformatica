@@ -6,8 +6,8 @@
   "name":"obj_anti_max",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Torens",
+    "path":"folders/Objects/Torens.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -6,8 +6,8 @@
   "name":"Obj_game",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Achtergrond",
+    "path":"folders/Objects/Achtergrond.yy",
   },
   "parentObjectId":null,
   "persistent":false,

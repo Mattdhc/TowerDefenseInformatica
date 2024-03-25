@@ -8,8 +8,8 @@
   "name":"obj_enm_boss",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Vijanden",
+    "path":"folders/Objects/Vijanden.yy",
   },
   "parentObjectId":null,
   "persistent":false,
