@@ -32,9 +32,11 @@
     {"name":"obj_prot_low","order":4,"path":"objects/obj_prot_low/obj_prot_low.yy",},
     {"name":"obj_prot_max","order":5,"path":"objects/obj_prot_max/obj_prot_max.yy",},
     {"name":"obj_UI_Master","order":1,"path":"objects/obj_UI_Master/obj_UI_Master.yy",},
+    {"name":"obj_MaakData","order":7,"path":"objects/obj_MaakData/obj_MaakData.yy",},
     {"name":"spr_anti_max","order":2,"path":"sprites/spr_anti_max/spr_anti_max.yy",},
     {"name":"spr_anti_med","order":1,"path":"sprites/spr_anti_med/spr_anti_med.yy",},
     {"name":"Spr_back_ground","order":18,"path":"sprites/Spr_back_ground/Spr_back_ground.yy",},
+    {"name":"spr_bullet","order":19,"path":"sprites/spr_bullet/spr_bullet.yy",},
     {"name":"spr_data_low","order":3,"path":"sprites/spr_data_low/spr_data_low.yy",},
     {"name":"spr_data_max","order":5,"path":"sprites/spr_data_max/spr_data_max.yy",},
     {"name":"spr_data_med","order":4,"path":"sprites/spr_data_med/spr_data_med.yy",},
@@ -52,6 +54,5 @@
     {"name":"spr_prot_med","order":7,"path":"sprites/spr_prot_med/spr_prot_med.yy",},
     {"name":"Sprite20","order":1,"path":"sprites/Sprite20/Sprite20.yy",},
     {"name":"Sprite21","order":16,"path":"sprites/Sprite21/Sprite21.yy",},
-    {"name":"spr_bullet","order":19,"path":"sprites/spr_bullet/spr_bullet.yy",},
   ],
 }
