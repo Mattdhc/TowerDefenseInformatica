@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -41,6 +41,7 @@
   "resources":[
     {"id":{"name":"obj_anti_low","path":"objects/obj_anti_low/obj_anti_low.yy",},},
     {"id":{"name":"obj_anti_max","path":"objects/obj_anti_max/obj_anti_max.yy",},},
+    {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
     {"id":{"name":"obj_data_low","path":"objects/obj_data_low/obj_data_low.yy",},},
     {"id":{"name":"obj_data_max","path":"objects/obj_data_max/obj_data_max.yy",},},
     {"id":{"name":"obj_enm_basic","path":"objects/obj_enm_basic/obj_enm_basic.yy",},},
@@ -74,6 +75,8 @@
     {"id":{"name":"spr_prot_max","path":"sprites/spr_prot_max/spr_prot_max.yy",},},
     {"id":{"name":"spr_prot_med","path":"sprites/spr_prot_med/spr_prot_med.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
+    {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
+    {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
