@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_prot_low",
-  "eventList":[],
+  "%Name":"obj_Bullet",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_prot_low",
+  "name":"obj_Bullet",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_prot_low",
-    "path":"sprites/spr_prot_low/spr_prot_low.yy",
+    "name":"spr_bullet",
+    "path":"sprites/spr_bullet/spr_bullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,

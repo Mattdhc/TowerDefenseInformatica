@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"start_next_wave",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"start_next_wave",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

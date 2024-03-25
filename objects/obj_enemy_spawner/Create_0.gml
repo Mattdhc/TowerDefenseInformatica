@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-with (other) path_start(Path1, 4, true, true)
-
-
-
+wave_number = 0;
+enemies_remaining = 0;
